@@ -1,0 +1,17 @@
+{
+  "name": "languageguesser",
+  "version": "1.0.0",
+  "description": "Command Line application that takes in argument representing a sentence and parses it to determine an output using Franc and Langs packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir Babazadeh",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^6.0.0",
+    "langs": "^2.0.0"
+  },
+  "type": "module"
+}
